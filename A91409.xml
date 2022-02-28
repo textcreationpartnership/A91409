@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo speeches made by Iohn Pymm Esquire; the one after the articles of the charge against the Earle of Strafford were read. The other, after the articles of the articles of the charge against Sir George Ratcliffe were read.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91409</idno>
+            <idno type="STC">Wing P4302</idno>
+            <idno type="STC">Thomason E196_27</idno>
+            <idno type="STC">Thomason E196_28</idno>
+            <idno type="STC">ESTC R14842</idno>
+            <idno type="EEBO-CITATION">99859746</idno>
+            <idno type="PROQUEST">99859746</idno>
+            <idno type="VID">157457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[27], 35:E196[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo speeches made by Iohn Pymm Esquire; the one after the articles of the charge against the Earle of Strafford were read. The other, after the articles of the articles of the charge against Sir George Ratcliffe were read.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Bartlet, and are to be sold at the gilt Cup, neere St. Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Composed of two speeches: Thomason E.196[27] has caption title: "Mr. Pyms speech made the 25th. of Novemb. 1640;" on first page of text. Thomason E.196[28] has caption title: "Mr. Pyms speech made the 31. of December; 1640;" on page 6.</note>
+                  <note>With a preliminary blank leaf.</note>
+                  <note>Annotation on Thomason copy: "25 novemb - 1640".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>Radcliffe, George, --  Sir, 1593-1657 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157457:1"/>
+            <pb facs="tcp:157457:1" rendition="simple:additions"/>
+            <p> TWO SPEECHES MADE BY IOHN PYMM Eſquire; the one after the Articles of the Charge againſt the <hi>Earle</hi> of STRAFFORD were read.</p>
+            <p>THE OTHER, AFTER THE ARTICLES of the <hi>Charge</hi> againſt Sir GEORGE RATCLIFFE <hi>were read.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for IOHN BARTLET, and are to be ſold at the gilt Cup, neere St. <hi>Auſtine gate.</hi> 1641.</p>
+            <pb facs="tcp:157457:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:157457:2"/>
+            <head>Mr. PYMS SPEECH MADE THE 25<hi rend="sup">th.</hi> of <hi>Novemb.</hi> 1640; <hi>After the Articles of the Charge againſt the Earle of</hi> STRAFFORD <hi>were read.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>My</hi> LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Articles have expreſt the Character of a great and dan<g ref="char:EOLhyphen"/>gerous Treaſon; ſuch a one as is advanced to the higheſt de<g ref="char:EOLhyphen"/>gree of malice and of miſchiefe: it is enlarged beyond the limits of any de<g ref="char:EOLhyphen"/>ſcription
+<pb n="2" facs="tcp:157457:3"/> or definition: it is ſo hainous in it ſelfe, as that it is capable of no aggravation: a Treaſon againſt God betraying his Truth and worſhip; againſt the King, obſcuring the glory, and weakning the foundation of his Throne; againſt the Common-wealth, by de<g ref="char:EOLhyphen"/>ſhroying the Principles of ſafetie and proſpe<g ref="char:EOLhyphen"/>ritie. Other Treaſons are againſt the Rule of the Law; this is againſt the being of the Law: It is the Law that unites the King and his Peo<g ref="char:EOLhyphen"/>ple; and the Author of this Treaſon hath endeavored to diſſolve that Union; even to breake the mutuall, reverſall, indiſſoluble band of protection and Allegiance, whereby they are, and I hope ever will bee bound to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>If this Treaſon had taken effect, our ſoules had beene inthralled to the ſpirituall Tyran<g ref="char:EOLhyphen"/>ny of Satan; our Conſciences to the Eccleſi<g ref="char:EOLhyphen"/>aſticall Tyranny of the Pope; our Lives, our Perſons and Eſtates, to the Civill Tyranny of an arbitrary, unlimited, confuſed Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Treaſon in the leaſt degree, is an odious and a horrid Crime: other Treaſons are particu<g ref="char:EOLhyphen"/>lar; if a Fort be betrayed, or an Army, or any other treaſonable fact committed, the King<g ref="char:EOLhyphen"/>dome may out-live any of theſe: this Trea<g ref="char:EOLhyphen"/>ſon would have diſſolved the frame and being of the common wealth; it is an Univerſall, a Catholike Treaſon; the venome and ma<g ref="char:EOLhyphen"/>lignity
+<pb n="3" facs="tcp:157457:3"/> of all other Treaſons, are abſtracted, digeſted, ſublimated into this.</p>
+            <p>The Law of this Kingdome makes the King to bee the fountaine of Iuſtice, of peace, of protection; therfore we ſay, the Kings Courts, the Kings Judges, the Kings Lawes: the Roy<g ref="char:EOLhyphen"/>all Power and Majeſtie ſhines upon us in every publique bleſſing and benefit we enjoy: but the Author of this Treaſon would make him the fountaine of Injuſtice, of confuſion, of publique miſery and Calamitie.</p>
+            <p>The Gentiles by the light of Nature had ſome obſcure apprehenſions of the Deity, of which they made this expreſſion that hee was <hi>Deus optimus maximus,</hi> an infinite goodneſſe, and an infinite greatneſſe. All ſoveraigne Princes have ſom Characters of Divinity im<g ref="char:EOLhyphen"/>printed on them; they are ſet up in their do<g ref="char:EOLhyphen"/>minions to bee <hi>Optimi, Maximi,</hi> that they ſhould exerciſe a goodneſſe proportionable to their greatneſſe.</p>
+            <p>That Law terme, <hi>Laeſa Majeſtas,</hi> whereby they expreſſe that which we call Treaſon, was never more thorowly fulfilled then now: there cannot bee a greater laeſion or diminution of Majeſty then to bereave a King of the glory of his goodnes. It is goodnes (my <hi>Lords)</hi> that can produce not only to his people, but likewiſe to himſelf honour and happines. There are Prin<g ref="char:EOLhyphen"/>cipalities, Thrones and Dominions amongſt the Divels; greatneſſe enough; but being
+<pb n="4" facs="tcp:157457:4"/> uncapable of goodneſſe, they are made un<g ref="char:EOLhyphen"/>capable both of honour and happineſſe.</p>
+            <p>The Lawes of this Kingdome have inveſted the Royall Crowne with Power ſufficient for the manifeſtation of his goodneſſe and of his greatneſſe: if more bee required, it is like to have no other effects but povertie, weakneſſe, and miſerie, whereof of late we have had very wofull experience. It is farre from the Com<g ref="char:EOLhyphen"/>mons to deſire any abridgement of thoſe great Prerogatives which belong to the King; they know that their owne Libertie and Peace are preſerved and ſecured by his Prerogative, and they will alwaies be ready to ſupport and ſup<g ref="char:EOLhyphen"/>ply his Majeſtie with their lives and fortunes for the maintenance of his juſt and lawfull power.</p>
+            <p>This (My <hi>Lords)</hi> is in all our thoughts, in our prayers, and I hope will ſo be manifeſted in our endeavours; that if the proceedings of this <hi>Parliament</hi> be not interrupted as others have bin the King may within a few moneths be put into a cleere way, of as much greatnes, plentie and glory as any of his Royall Aun<g ref="char:EOLhyphen"/>ceſtors have enjoyed.</p>
+            <p>A King and his people make one Body: the inferiour parts conferre nouriſhment and ſtrength, the ſuperiour ſence and motion: If there bee an interruption of this neceſſary intercourſe of blood and ſpirits, the whole Bodie muſt needs bee ſubject to decay and diſ<g ref="char:EOLhyphen"/>temper:
+<pb n="5" facs="tcp:157457:4"/> Therefore obſtructions are firſt to be removed before Reſtoratives can be appli<g ref="char:EOLhyphen"/>ed: This (My <hi>Lords)</hi> is the end of this Accu<g ref="char:EOLhyphen"/>ſation, whereby the Commons ſeeke to re<g ref="char:EOLhyphen"/>move this perſon whom they conceive to have bin a great Cauſe of the obſtructions betwixt his Majeſtie and his People: for the effecting whereof they have commanded mee to deſire your Lordſhip that their proceedings againſt him may bee put into as ſpeedie a way of diſ<g ref="char:EOLhyphen"/>patch, as the Courſes of <hi>Parliaments</hi> will allow.</p>
+            <p>Firſt, that he may be called to anſwere, and they may have Libertie to replie, that there may bee a quick and ſecret examination of witneſſes: and they may from time to time be acquainted with the depoſitions: that ſo when the cauſe ſhall bee ripe for Judgement: they may collect the ſeverall Examinations and repreſent to your Lordſhips in one entire Bo<g ref="char:EOLhyphen"/>die the ſtate of the proofes, as now by mee they have preſented to you the ſtate of the charge.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
